@@ -1,0 +1,11 @@
+[2022-07-14 03:35:43,605] DEBUG lab_logging 29 - This message should go to the log file
+[2022-07-14 03:35:43,606] INFO lab_logging 30 - So should this
+[2022-07-14 03:35:43,606] WARNING lab_logging 31 - And this, too
+[2022-07-29 09:11:53,751] DEBUG lab_logging_basic_formatted 12 - This message should go to the log file
+[2022-07-29 09:11:53,752] INFO lab_logging_basic_formatted 13 - So should this
+[2022-07-29 09:11:53,752] WARNING lab_logging_basic_formatted 14 - And this, too
+[2022-07-29 09:11:53,752] DEBUG lab_logging_basic_formatted 16 - This message should go to the log file
+[2022-07-29 09:34:27,823] DEBUG lab_logging_basic_formatted 12 - This message should go to the log file
+[2022-07-29 09:34:27,823] INFO lab_logging_basic_formatted 13 - So should this
+[2022-07-29 09:34:27,823] WARNING lab_logging_basic_formatted 14 - And this, too
+[2022-07-29 09:34:27,823] DEBUG lab_logging_basic_formatted 16 - This message should go to the log file

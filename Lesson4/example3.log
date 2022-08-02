@@ -1,0 +1,9 @@
+#result of running lab_logging.py the 1st time (no name specified so root was used)
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+
+#result of running the 2nd time (__name__ is specified)
+DEBUG:__main__:This message should go to the log file
+INFO:__main__:So should this
+WARNING:__main__:And this, too

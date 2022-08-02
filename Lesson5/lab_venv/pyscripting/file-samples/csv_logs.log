@@ -1,0 +1,24 @@
+[2022-07-29 10:12:13,053] DEBUG connectionpool 1007 - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+[2022-07-29 10:12:13,095] DEBUG connectionpool 465 - https://raw.githubusercontent.com:443 "GET /woocommerce/woocommerce/master/sample-data/sample_products.csv HTTP/1.1" 200 2288
+[2022-07-29 10:12:13,097] INFO csv_logger 24 - Data File download completed
+[2022-07-29 10:12:13,098] INFO csv_logger 28 - Data File conversion to csv completed
+[2022-07-29 10:12:13,098] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,098] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,098] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,098] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,098] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,099] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,100] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,100] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,100] INFO csv_logger 41 - Row with Category found
+[2022-07-29 10:12:13,100] INFO csv_logger 48 - Data File processing completed
+[2022-07-29 10:12:13,101] INFO csv_logger 59 - csv file of cleaned Data File has been created
